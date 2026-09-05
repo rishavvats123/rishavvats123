@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishav Vats</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align=>"right"alt="https://static.vecteezy.com/system/resources/thumbnails/022/328/336/original/isometric-desktop-computer-coding-programming-technology-programming-concept-technology-animation-transparent-background-with-alpha-channel-free-video.jpg">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavvats123&label=Profile%20views&color=0e75b6&style=flat" alt="rishavvats123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishavvats123" alt="rishavvats123" /></a> </p>
