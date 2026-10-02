@@ -69,7 +69,7 @@ That’s all about me. Thank you!
 ## 📂 Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmmPrakash-07&layout=compact&langs_count=12&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavvats123&layout=compact&langs_count=12&theme=radical" />
 </p>
 
 <p align="center">
@@ -80,13 +80,13 @@ That’s all about me. Thank you!
 
 ## 📊 GitHub Analytics
 
-<!-- ![OmmPrakash-07 GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmmPrakash-07&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmmPrakash-07&layout=compact&theme=radical) -->
+<!-- ![rishavvats123 GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishavvats123&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishavvats123&layout=compact&theme=radical) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=OmmPrakash-07&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rishavvats123&theme=radical" alt="GitHub Streak" />
 </p>
 
-![OmmPrakash-07's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OmmPrakash-07&theme=github-compact)
+![rishavvats123's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishavvats123&theme=github-compact)
 
 
 ---
